@@ -1,3 +1,5 @@
+# Archiving - the domain has expired and this was a proof of concept site that I am not renewing.
+
 # unicorns
 🦄✨.cf - a site dedicated to unicorns and their sparkle.
 
